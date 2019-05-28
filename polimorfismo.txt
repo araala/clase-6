@@ -1,0 +1,18 @@
+
+En programación orientada a objetos, el polimorfismo se refiere a la propiedad por la que es posible enviar mensajes sintácticamente iguales a objetos de tipos distintos. El único requisito que deben cumplir los objetos que se utilizan de manera polimórfica es saber responder al mensaje que se les envía.
+
+POLIMORFISMO: Concepto:En programación orientada a objetos se denomina polimorfismo a la capacidad que tienen los objetos de una clase de responder al mismo mensaje o evento en función de los parámetros utilizados durante su invocación.
+
+Polimorfismo (muchas formas, flexibilidad)
+Se requiere herencia
+
+POLIMORFISMO EN JAVA, ENLAZADO DINÁMICO
+El polimorfismo es una de las características fundamentales de la Programación Orientada a Objetos y está estrechamente relacionado con la herencia.
+Una jerarquía de clases, los métodos y clases abstractas, la sobrescritura de métodos y las conversiones entre clases de la jerarquía sientan las bases para el polimorfismo. Es necesario entender bien estos conceptos para comprender el polimorfismo. 
+El polimorfismo se puede definir como la cualidad que tienen los objetos para responder de distinto modo a un mismo mensaje.
+
+Super clase  Persona
+Clase inferior  Empleados
+Clase inferior  Secretaria, Ingeniero, gerente
+metodo: habla
+
